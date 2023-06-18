@@ -23,7 +23,7 @@ Harald's Saga
 Viking temalı hayatta kalma oyunu 
 
 ## Ürün Özellikleri
-
+Oyunca fps ,singler player, envanter,craf sistemi, life skill,exploration var.
 
 ## Hedef Kitle
 
@@ -33,7 +33,7 @@ Viking temalı hayatta kalma oyunu
 
 ## Juriye Not
 
-ouayı seviyorum
+ İskandinav medeniyetinin örnek alındığı oyunlar genellikle,savaş ve yıkım odaklıyken biz bu odağı mutlu ve barış dolu ortama çevirmeyi amaçladık. Savaştan uzak barış içindeki dünyaya ulaşabilmek için çaba sarf eden Harald'ın hikayesi.
 
 ---
 
