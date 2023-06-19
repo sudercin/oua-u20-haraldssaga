@@ -36,7 +36,7 @@ Oyunca fps ,singler player, envanter,craf sistemi, life skill,exploration var.
 ## Juriye Not
 
  İskandinav medeniyetinin örnek alındığı oyunlar genellikle,savaş ve yıkım odaklıyken biz bu odağı mutlu ve barış dolu ortama çevirmeyi amaçladık. Savaştan uzak barış içindeki dünyaya ulaşabilmek için çaba sarf eden Harald'ın hikayesi.
-
+  Sprint1 dosyasının içine takım içi konuşmalarıda ekledik:)
 ---
 
 # Sprint 1
