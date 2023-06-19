@@ -22,7 +22,7 @@ Hata: dosya boyutunu aştı, düzeltmeye çalışıyoruz.
 ## Ürün Açıklaması
 
 Viking temalı hayatta kalma oyunu 
-https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/Harald's%20Saga.pdf
+![pdf1]https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/Harald's%20Saga.pdf
 
 ## Ürün Özellikleri
 Oyunca fps ,singler player, envanter,craf sistemi, life skill,exploration var.
