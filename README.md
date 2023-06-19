@@ -49,11 +49,10 @@ Oyunca fps ,singler player, envanter,craf sistemi, life skill,exploration var.
 
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/deneme1.png)
-  ![Screenshot 2](https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/deneme2.png)
-  ![Screenshot 3](https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/deneme3.png)
-  ![Screenshot 4](https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/deneme4.png)
-  ![Screenshot 5](https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/deneme5.png)
-  ![Screenshot 6](https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/deneme6.png)
+  ![Screenshot 2](https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/deneme3.png)
+  ![Screenshot 3](https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/deneme4.png)
+  ![Screenshot 4](https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/deneme5.png)
+  ![Screenshot 5](https://github.com/sudercin/oua-u20-haraldssaga/blob/main/ProjectManagement/Sprint1Documents/deneme6.png)
 - **Sprint Review**: 
 Alınan kararlar: lk hafta oyun tasarımına ağırlık verilmiştir. Bu bağlamda oyunun türü, sanat tarzı, kurgusu, ve hikayesi tartışılmış ve karara bağlanmıştır. Ayrıca takım ile ilgili scrum master, project owner ve developerlar belirlenmiştir. Ikinci hafta ise yapılacaklar kararlaştırılmış görev dağılımı yapılmıştır. Sonrasinda oyunun yapımı ile ilgili çalışmalara başlanmıştır. Kullanılacak assetler belirlenmiş ve unitye aktarılmıştır. Ayrıca oyun içi level desgina başlanmıştır.
 
